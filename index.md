@@ -126,7 +126,19 @@ This is an online event. We will meet using the online videoconference software 
 We are committed to making this workshop
 accessible to everybody.
 The workshop organisers have checked that:
-||||||| merged common ancestors
+<ul>
+  <li>The room is wheelchair / scooter accessible.</li>
+  <li>Accessible restrooms are available.</li>
+</ul>
+
+
+  Materials will be provided in advance of the workshop and
+  large-print handouts are available if needed by notifying the
+  organizers in advance.  If we can help making learning easier for
+  you (e.g. sign-language interpreters, lactation facilities) please
+  please get in touch (using contact details below) and we will
+  attempt to provide them.
+  
 <p>
   <strong>Requirements:</strong> Participants should bring a laptop
   that is Internet connected and has a functioning browser.  If you
@@ -151,17 +163,6 @@ The workshop organisers have checked that:
   </em>
 </p>
 
-<ul>
-  <li>The room is wheelchair / scooter accessible.</li>
-  <li>Accessible restrooms are available.</li>
-</ul>
-
-  Materials will be provided in advance of the workshop and
-  large-print handouts are available if needed by notifying the
-  organizers in advance.  If we can help making learning easier for
-  you (e.g. sign-language interpreters, lactation facilities) please
-  please get in touch (using contact details below) and we will
-  attempt to provide them.
 
 {% endif %}
 
